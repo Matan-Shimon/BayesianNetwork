@@ -1,0 +1,6 @@
+example.xml
+L-T'|T=F
+L-B|
+L-B|T=F
+L-B|T'=T
+L-B|T=F,R=T
